@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kvandana451
+- 👋 Hi, I’m Vandana
 - 👀 I’m interested in JavaScript.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects.
